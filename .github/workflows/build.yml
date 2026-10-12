@@ -32,3 +32,4 @@ jobs:
         with:
           name: afkbotgui-1.21.11
           path: build/libs/*.jar
+          if-no-files-found: error
